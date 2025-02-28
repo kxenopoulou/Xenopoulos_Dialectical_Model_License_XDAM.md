@@ -82,7 +82,7 @@ If you use the Xenopoulos Dialectical Model (XDM) under the XDML, include the fo
 
 ```bibtex
 @software{Xenopoulos_Dialectical_Model_2024,
-  author = {Xenopoulos, Epameinondas & Xenopoulou, Katerina},
+  author = {Xenopoulos, Epameinondas & Xenopoulos, Katerina},
   title = {Xenopoulos Dialectical Model (XDM)},
   url = { https://github.com/kxenopoulou/Xenopoulos-Dialectical-Model-XDM.git },
   doi = {https://zenodo.org/uploads/14929817},
